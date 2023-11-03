@@ -1,0 +1,8 @@
+{
+  "name": "s1xsb6--run",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "typescript": "5.2.2"
+  }
+}
